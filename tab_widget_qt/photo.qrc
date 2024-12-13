@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="prefix_photo">
+    <file>apple-pay-custom.svg</file>
+  </qresource>
+</RCC>
