@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="uides">
+    <file>form_background.jpg</file>
+    <file>user.png</file>
+  </qresource>
+</RCC>
